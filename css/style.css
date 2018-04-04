@@ -646,7 +646,7 @@ p {
 *************************************/
 
 .section-8::before {
-    background: url(../images/section-8-background.jpg) no-repeat center;
+    background: url(../images/line.jpg) no-repeat center;
     position: absolute;
     top: 0;
     content: "";
